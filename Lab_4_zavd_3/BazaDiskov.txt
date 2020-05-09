@@ -1,0 +1,11 @@
+1234567             Summer           100,6            CDDA      17.09.1998
+7654413             Spring            12,9            CDDA      16.09.2001
+1234567             Summer          1235,8       DVD-Audio      13.12.2001
+1234659             Autumn            12,6            CDDA      11.06.2002
+6342563        AmazingBits           178,2            CDDA      15.03.2005
+3123426      AwesomeSounds            90,6            CDDA      24.04.2008
+1489425         BlueNights           543,1            CDDA      12.10.2010
+1234659             Winter            12,6       DVD-Audio      13.10.2011
+1233456             Autumn            12,6            CDDA      11.11.2011
+9871328             Spring           500,6       DVD-Audio      29.03.2013
+1234567         NightVibes           123,9            CDDA      11.06.2003

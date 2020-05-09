@@ -1,0 +1,12 @@
+January   5100   5700   
+February  7170   6090   
+March     1002   9800   
+April     1010   9000   
+May       1111   1000   
+June      4321   1521   
+July      2839   3000   
+August    1800   2000   
+September 2222   3333   
+October   2000   1100   
+November  4780   4500   
+December  3150   3000   
